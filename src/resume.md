@@ -2,9 +2,9 @@
 
 ![](https://github.com/yeikiu/yeikiu.github.io/raw/master/src/logo.png)
 
-# Joaquín Ocón
+# Noah May
 
-### Software Engineer • Senior Full-Stack Developer  
+### CS Senior at Ball State
 
 ----
 
@@ -18,11 +18,11 @@
 
 Personal Details
 ---------
-<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
+<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp; Email: nmmay@bsu.edu
 
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/noah-may-791380158/)
 
-<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
+<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/NMAY1234)
 
 
 Experience
