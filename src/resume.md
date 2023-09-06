@@ -1,6 +1,6 @@
 <br /><br />
 
-![](https://github.com/yeikiu/yeikiu.github.io/raw/master/src/logo.png)
+![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/portrait.png)
 
 # Noah May
 
@@ -84,7 +84,7 @@ Main Languages & IT Strengths
 :	React, NextJS, VueJS, AngularJS, TailwindCSS, Bootstrap
 
 <span class="fas fa-globe-americas fa-lg">
-:	GIT, Jira, Confluence, Slack
+:	GIT, Slack
 
 Human Languages
 ------------
