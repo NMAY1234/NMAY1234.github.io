@@ -1,8 +1,8 @@
 <br /><br />
-### Noah May
 
-![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/portrait.JPG)
 
+![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/portrait.jpg)
+# Noah May
 
 ### Computer Science Senior at Ball State University
 
@@ -26,7 +26,7 @@ Focus area: Cyber-Security
 [Ball State University](https://www.bsu.edu)
 
 High School Graduation: 2014
-:   *Technical Honors at Delta High School*  
+:   *Delta High School - Technical Honors*  
 Project Lead the Way: Introduction to Engineering Design  
 [Delta High School](https://dhs.delcomschools.org)
 
@@ -57,21 +57,21 @@ Languages and Projects
 :	Ball State Class Projects
 	<dl>
 		<dt>Silver Screen Movie Swiper</dt>
-			A swiping application that pairs you with the movies you want to watch!
-			 Uses TMDB platform API for up-to-date titles.
+			A swiping application that pairs you with the movies you want to watch! Uses TMDB platform API for up-to-date titles.
 	</dl>
  	<dl>
 		<dt>Wordle Solver</dt>
 			Application that solves today's Wordle Puzzle.
 	</dl>
 	<dl>
-		<dt>Wikipedia Revision Searcher</dt>
+		<dt>Wikipedia Revision</dt>
 			Utilizes the Wikimedia API to see revisions on searched topics
 	</dl>
 
 <div class="page-break"></div>
 
 Github Repositories 
+
 : 	[Silver Screen](https://github.com/NMAY1234)  
 	[Wordle](https://github.com/NMAY1234)  
  	[Wiki Revisions](https://github.com/NMAY1234)
@@ -82,6 +82,7 @@ About Me and Hobbies
 Hiking, Camping, and Fishing
 : 	*Trails, mountains and bodies of water call my name.*  
 
+<br />
 
 Board Games
 : 	*I am one for competition and I can spend an evening's enjoyment on winning or losing,   
