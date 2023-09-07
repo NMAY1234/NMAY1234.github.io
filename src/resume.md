@@ -1,16 +1,10 @@
 <br /><br />
-
-![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/portrait.png)
-
 # Noah May
 
-### CS Senior at Ball State
+![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/Noah-mountain.JPG)
 
-----
 
-<i class="fas fa-quote-left fa-2x fa-pull-left fa-border"></i>
-"Life is a mountain of solvable problems, and I enjoy that."  
-&nbsp;&nbsp;&nbsp;&nbsp;-James Dyson
+### Computer Science Senior at Ball State University
 
 ----
 
@@ -18,128 +12,80 @@
 
 Personal Details
 ---------
-<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp; Email: nmmay@bsu.edu
+<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;Email: nmmay@bsu.edu
 
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/noah-may-791380158/)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/NMAY1234)
 
+Education
+---------
+Expected Graduation Year: 2024
+: 	*Computer Science - Associate's Degree*  
+Focus area: Cyber-Security  
+[Ball State University](https://www.bsu.edu)
 
-Experience
+High School Graduation: 2014
+:   *Technical Honors at Delta High School*  
+Project Lead the Way: Introduction to Engineering Design  
+[Delta High School](https://dhs.delcomschools.org)
+
+
+Previous Work Experience
 ----------
-2023 - Now
-: 	*Software Engineer | Full-Stack Developer*  
-	[Meetoptics Labs S.L.](https://meetoptics.com)
+2022 - Now
+: 	*Team Leader at Crew Carwash*
 
 2018 - 2022
-: 	*Software Engineer | Full-Stack Developer*  
-	[Kraken Crypto Exchange](https://kraken.com)
+: 	*Bartender and Trainer at Chili's*
 
-2017 - 2018
-: 	*Application Development Senior Analyst*  
-	[Accenture Outsourcing Services SA](https://www.accenture.com)
-
-2015 - 2016
-:	*Project Manager | Back-End Developer*  
-	[Gobierno de Canarias](http://www.gobcan.es)  
-	Agenda Digital Canaria: Communication system for families and schools
-
-2014 - 2017
-: 	*Android Developer | REST API Developer*  
-	[Kinder360](https://kinder360.com/)  
-	
-2014 - 2017
-:	*CTO | Co-Founder*  
-	[Frysbe](http://frysbe.com/)
-
-2013 - 2014
-:	*Full-Stack CRM Developer*  
-	[Ceindi SL](http://ceindi.es/)
-
-2012 - 2015
-:	*CTO | Co-Founder*  
-	[Team & Talent Technologies](http://teamandtalent.com/)
+2014 - 2018
+:   *Healthcare Specialist and Team Leader in U.S. Army*
 
 <div class="page-break"></div>
 
-Education
----------
-2016
-:	*Computer Engineer - Master’s Degree*  
-	Focus area: Software Engineering  
-	[Universidad de Las Palmas de Gran Canaria (Spain)](https://ulpgc.es)  
 	
-Main Languages & IT Strengths
+Languages and Projects
 ------------
 <span class="fas fa-code fa-lg">
-:	Typescript, Javascript, Java, PHP, TeX, HTML, CSS
-
-<span class="fas fa-server fa-lg">
-:	NodeJS, Nginx, Apache, Tomcat, Docker
-
-<span class="fas fa-database fa-lg">
-:	MariaDB, MySQL, PostreSQL, MongoDB, Redis
-
-<span class="fas fa-code-branch fa-lg">
-:	React, NextJS, VueJS, AngularJS, TailwindCSS, Bootstrap
+:	Java, Dart, Python, HTML
 
 <span class="fas fa-globe-americas fa-lg">
 :	GIT, Slack
 
-Human Languages
-------------
-*Spanish*
-:	Native
+<span class="fas fa-book fa-lg">
+:	Ball State Class Projects
+	<dl>
+		<dt>Silver Screen Movie Swiper</dt>
+			<dd>- A swiping application that pairs you with the movies you want to watch!</dd>
+			<dd>- Uses TMDB platform API for up-to-date titles.</dd>
+	</dl>
+ 	<dl>
+		<dt>Wordle Solver</dt>
+			<dd>- Application that solves today's Wordle Puzzle. </dd>
+	</dl>
+	<dl>
+		<dt>Wikipedia Revision Searcher</dt>
+			<dd>- Utilizes the Wikimedia API to see revisions on searched topics </dd>
+	</dl>
 
-*English*
-:	Professional working proficiency  
-	Cambridge University First Certificate
+Github Repositories 
+: 	[Silver Screen](https://github.com/NMAY1234)  
+	[Wordle](https://github.com/NMAY1234)  
+ 	[Wiki Revisions](https://github.com/NMAY1234)
 
-Awards
-------
-2015
-:	*Awarded by the FbStart Bootstrap Program*  
-	[Facebook Inc.](https://developers.facebook.com/fbstart)  
-	$5000 on Fb's technology award for [Frysbe](https://frysbe.com) Project
 
-2014
-:	*Selected to join the Área 31 Startup Incubator*  
-	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
-	[Kinder360](https://kinder360.com) was selected between applicants worldwide
-
-2018
-:	*1st Prize in FMP Hackathon by FEMEPA*  
-	[FEMEPA](http://femepa.org/web/)  
-	Project [EcoCanarias](https://ecocanarias.life)
-
-Personal Side-Projects
+About Me and Hobbies
 ----------
-2023
-: 	*MyHrefs.com*  
-	[https://myhrefs.com](https://myhrefs.com)  
-	🤩 Highly customisable social-content showcase
+Hiking, Camping, and Fishing
+: 	*Trails, mountains and bodies of water call my name.*  
 
-2022
-: 	*DeLowCos Studio*  
-	[https://delowcos.com](https://delowcos.com)  
-	🎛️ Landing page experimenting the fresh framework on top of deno
-
-2021
-: 	*ts-kraken npm*  
-	[https://github.com/yeikiu/ts-kraken](https://github.com/yeikiu/ts-kraken)  
-	📈 A versatile unofficial ts-lib & node-repl-cli to operate against the Kraken Crypto Exchange
-
-2020
-: 	*Vue3 Markdown Blog*  
-	[https://github.com/yeikiu/vue3-md-blog](https://github.com/yeikiu/vue3-md-blog)  
-	✍️ Minimal config Vue3 + Markdown blog engine
-
-2019
-: 	*WaAr - WhatsApp Auto-Reply bot*  
-	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	🤖💬 WhatsApp Auto-Reply node cli
+Board Games
+: 	*I am one for competition and I can spend an evening's enjoyment on winning or losing,   
+ as long as I am playing with the right people!*
+	
 
 <br /><br />
 
 ------
-> Download [PDF version](https://yeikiu.github.io/resume.pdf) | See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io)
+> Download [PDF version]()
