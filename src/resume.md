@@ -82,16 +82,12 @@ Languages and Projects
 
 
 About Me and Hobbies
----------- 
-Hiking, Camping, and Fishing
-:  	*Trails, mountains and bodies of water call my name.*  
-
-<br />
+----------
+Hiking, Camping, Fishing
+: 	*Trails, mountains, and bodies of water call my name.*
 
 Board Games
-:  	*I am one for competition and I can spend an evening's enjoyment on winning or losing,   
- as long as I am playing with the right people!*
-	
+: 	*I am one for competition and I can spend an evening's enjoyment on winning or losing, as long as I am playing with the right people!*
 
 <br /><br />
 
