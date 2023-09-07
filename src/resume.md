@@ -1,7 +1,7 @@
 <br /><br />
-# Noah May
+### Noah May
 
-![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/Noah-mountain.JPG)
+![](https://github.com/NMAY1234/NMAY1234.github.io/raw/master/src/portrait.JPG)
 
 
 ### Computer Science Senior at Ball State University
@@ -57,17 +57,19 @@ Languages and Projects
 :	Ball State Class Projects
 	<dl>
 		<dt>Silver Screen Movie Swiper</dt>
-			<dd>- A swiping application that pairs you with the movies you want to watch!</dd>
-			<dd>- Uses TMDB platform API for up-to-date titles.</dd>
+			A swiping application that pairs you with the movies you want to watch!
+			 Uses TMDB platform API for up-to-date titles.
 	</dl>
  	<dl>
 		<dt>Wordle Solver</dt>
-			<dd>- Application that solves today's Wordle Puzzle. </dd>
+			Application that solves today's Wordle Puzzle.
 	</dl>
 	<dl>
 		<dt>Wikipedia Revision Searcher</dt>
-			<dd>- Utilizes the Wikimedia API to see revisions on searched topics </dd>
+			Utilizes the Wikimedia API to see revisions on searched topics
 	</dl>
+
+<div class="page-break"></div>
 
 Github Repositories 
 : 	[Silver Screen](https://github.com/NMAY1234)  
@@ -79,6 +81,7 @@ About Me and Hobbies
 ----------
 Hiking, Camping, and Fishing
 : 	*Trails, mountains and bodies of water call my name.*  
+
 
 Board Games
 : 	*I am one for competition and I can spend an evening's enjoyment on winning or losing,   
