@@ -72,9 +72,8 @@ Languages and Projects
 			Utilizes the Wikimedia API to see revisions on searched topics
 	</dl>
 
-<div class="page-break"></div>
 
-&nbsp;&nbsp;&nbsp; Github Repositories 
+Github Repositories 
 
 : 	[Silver Screen](https://github.com/NMAY1234)  
 	[Wordle](https://github.com/NMAY1234)  
@@ -92,4 +91,4 @@ Board Games
 <br /><br />
 
 ------
-> Download [PDF version]()
+> Download [PDF version](https://nmay1234.github.io/resume.pdf)
